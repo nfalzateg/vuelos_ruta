@@ -29,3 +29,11 @@ INSERT INTO ruta (idRuta, idOrigen, idDestino, valorRuta) VALUES (5, 2, 1, 62950
 INSERT INTO ruta (idRuta, idOrigen, idDestino, valorRuta) VALUES (6, 5, 4, 37800);
 
 SELECT * FROM ruta;
+
+INSERT INTO vuelo (idAvion, idRuta, fecha, hora) VALUES (1, 2, "2021-11-1", "20:30");
+
+SELECT * FROM vuelo;
+
+INSERT INTO pasajero (idPasajero, idVuelo, nombrePasajero) VALUES (1, 1, "Nelson Alzate");
+
+SELECT * FROM pasajero;
