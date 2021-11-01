@@ -1,0 +1,7 @@
+https://github.com/nfalzateg/vuelos_ruta
+primer repository creado donde se hizo todo el ejercicio de merge
+
+https://github.com/nfalzateg/rutas_vuelos_v2.git
+segundo repositorio donde se crear para poder que las ramas queden bien ramificadas
+
+En esta entrega cree el segundo repositorio para arreglar la ramificacion ya que en el primer repositorio una de las ramas no fue creada desde master, entonces ahora que verifico para subir la entrega me encontre con este error, pero el segundo repositorio esta corregido
