@@ -31,6 +31,8 @@ INSERT INTO ruta (idRuta, idOrigen, idDestino, valorRuta) VALUES (6, 5, 4, 37800
 SELECT * FROM ruta;
 
 INSERT INTO vuelo (idAvion, idRuta, fecha, hora) VALUES (1, 2, "2021-11-1", "20:30");
+INSERT INTO vuelo (idAvion, idRuta, fecha, hora) VALUES (2, 1, "2021-11-1", "20:45");
+INSERT INTO vuelo (idAvion, idRuta, fecha, hora) VALUES (2, 2, "2021-11-1", "20:50");
 
 SELECT * FROM vuelo;
 
