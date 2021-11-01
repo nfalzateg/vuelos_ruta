@@ -2,3 +2,7 @@ Este es el primer commit de trabajo bebold
 git checkout nombre de la rama cambiar de rama
 
 git push origin nombre de la rama subir github
+
+git commit -m "Creando commit" crear un commit
+
+Cambia desde QA, QB
