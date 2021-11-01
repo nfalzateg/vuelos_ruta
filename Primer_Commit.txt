@@ -5,4 +5,4 @@ git push origin nombre de la rama subir github
 
 git commit -m "Creando commit" crear un commit
 
-Cambia desde QA, QB
+Cambia desde QA
